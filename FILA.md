@@ -1,6 +1,6 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 11/11/2026 23:45 (horário de Brasília).
+Atualizado em 11/11/2026 23:49 (horário de Brasília).
 
 **44 agendados** · **1 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
@@ -8,6 +8,7 @@ Atualizado em 11/11/2026 23:45 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| qua 11/11 23:49 | post (carrossel) | Lá Violeta Eventos | Mineiros - GO | ⏳ agendado |
 | qui 12/11 08:00 | story | 12 stories da lista de ganhadores | Mineiros - GO | ⏳ agendado |
 | qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ⏳ agendado |
 | qui 12/11 13:00 | post (carrossel) | Pizzaria Donna Maria | Mineiros - GO | ⏳ agendado |
@@ -40,7 +41,6 @@ Atualizado em 11/11/2026 23:45 (horário de Brasília).
 | sáb 21/11 13:00 | post (carrossel) | Ana Carolina Irineu | Mineiros - GO | ⏳ agendado |
 | sáb 21/11 19:00 | post (carrossel) | Studio Jaque Vieira | Mineiros - GO | ⏳ agendado |
 | dom 22/11 09:00 | post (carrossel) | SG Beauty Salão | Mineiros - GO | ⏳ agendado |
-| dom 22/11 13:00 | post (carrossel) | Lá Violeta Eventos | Mineiros - GO | ⏳ agendado |
 
 ## ✅ Últimas publicadas
 
