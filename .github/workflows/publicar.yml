@@ -1,0 +1,37 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # de hora em hora; publica o que já venceu na fila
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publicar itens vencidos
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python publicar.py
+      - name: Salvar status da fila
+        run: |
+          if ! git diff --quiet fila.json; then
+            git config user.name "primora-bot"
+            git config user.email "primora-bot@users.noreply.github.com"
+            git add fila.json
+            git commit -m "fila: status atualizado"
+            git pull --rebase
+            git push
+          fi
