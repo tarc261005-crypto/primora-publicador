@@ -75,15 +75,24 @@ def aguardar(container: str) -> None:
     raise ApiErro(f"container {container} demorou demais")
 
 
+def marcar(item: dict) -> dict:
+    """Marca a empresa na foto (notifica na hora e permite repostar), além do convite de Collab."""
+    if not item.get("collabs"):
+        return {}
+    return {"user_tags": json.dumps([{"username": h, "x": 0.5, "y": 0.35 + 0.1 * n} for n, h in enumerate(item["collabs"][:3])])}
+
+
 def criar_container(item: dict, com_collab: bool = True) -> str:
     urls = [BASE_URL + urllib.parse.quote(p) for p in item["imagens"]]
     if item["tipo"] == "story":
         c = chamar("POST", f"{IG}/media", image_url=urls[0], media_type="STORIES")["id"]
     elif len(urls) == 1:
-        extra = {"collaborators": json.dumps(item["collabs"][:3])} if com_collab and item.get("collabs") else {}
+        extra = {"collaborators": json.dumps(item["collabs"][:3]), **marcar(item)} if com_collab and item.get("collabs") else {}
         c = chamar("POST", f"{IG}/media", image_url=urls[0], caption=item.get("legenda", ""), **extra)["id"]
     else:
-        filhos = [chamar("POST", f"{IG}/media", image_url=u, is_carousel_item="true")["id"] for u in urls]
+        tag = marcar(item) if com_collab else {}
+        filhos = [chamar("POST", f"{IG}/media", image_url=u, is_carousel_item="true", **(tag if n == 0 else {}))["id"]
+                  for n, u in enumerate(urls)]
         for f in filhos:
             aguardar(f)
         extra = {"collaborators": json.dumps(item["collabs"][:3])} if com_collab and item.get("collabs") else {}
@@ -97,9 +106,9 @@ def publicar(item: dict, dry: bool) -> str:
     try:
         c = criar_container(item)
     except ApiErro as e:
-        if item.get("collabs") and "collab" in str(e).lower():
-            print(f"  collab recusado ({e}); publicando sem collab")
-            item["obs"] = f"sem collab: {e}"
+        if item.get("collabs"):
+            print(f"  collab/marcação recusados ({e}); publicando sem eles")
+            item["obs"] = f"sem collab/marcação: {e}"
             c = criar_container(item, com_collab=False)
         else:
             raise
