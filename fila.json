@@ -1,1 +1,602 @@
-[]
+[
+ {
+  "id": "story-mineiros-story-01",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-01.jpg"
+  ],
+  "quando": "2026-11-12T08:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-02",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-02.jpg"
+  ],
+  "quando": "2026-11-12T08:00:01-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-03",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-03.jpg"
+  ],
+  "quando": "2026-11-12T08:00:02-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-04",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-04.jpg"
+  ],
+  "quando": "2026-11-12T08:00:03-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-05",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-05.jpg"
+  ],
+  "quando": "2026-11-12T08:00:04-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-06",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-06.jpg"
+  ],
+  "quando": "2026-11-12T08:00:05-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-07",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-07.jpg"
+  ],
+  "quando": "2026-11-12T08:00:06-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-08",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-08.jpg"
+  ],
+  "quando": "2026-11-12T08:00:07-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-09",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-09.jpg"
+  ],
+  "quando": "2026-11-12T08:00:08-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-10",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-10.jpg"
+  ],
+  "quando": "2026-11-12T08:00:09-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-11",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-11.jpg"
+  ],
+  "quando": "2026-11-12T08:00:10-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "story-mineiros-story-12",
+  "tipo": "story",
+  "cidade": "Mineiros - GO",
+  "imagens": [
+   "midia/mineiros/stories/story-12.jpg"
+  ],
+  "quando": "2026-11-12T08:00:11-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-afm-funilaria-e-pintura-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "AFM Funilaria e Pintura",
+  "imagens": [
+   "midia/mineiros/feed/afm-funilaria-e-pintura-mineiros-1.jpg",
+   "midia/mineiros/feed/afm-funilaria-e-pintura-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @funilaria.pinturaafm como Destaque do Ano 2026 em Mineiros-GO, no segmento de Funilaria e pintura.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "funilaria.pinturaafm"
+  ],
+  "quando": "2026-11-12T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-pizzaria-donna-maria-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Pizzaria Donna Maria",
+  "imagens": [
+   "midia/mineiros/feed/pizzaria-donna-maria-mineiros-1.jpg",
+   "midia/mineiros/feed/pizzaria-donna-maria-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @pizzaria_mineiros como Destaque do Ano 2026 em Mineiros-GO, no segmento de Pizzaria.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "pizzaria_mineiros"
+  ],
+  "quando": "2026-11-12T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-casa-de-carne-caipira-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Casa de Carne Caipira",
+  "imagens": [
+   "midia/mineiros/feed/casa-de-carne-caipira-mineiros-1.jpg",
+   "midia/mineiros/feed/casa-de-carne-caipira-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @caipiracasadecarne como Destaque do Ano 2026 em Mineiros-GO, no segmento de Açougue.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "caipiracasadecarne"
+  ],
+  "quando": "2026-11-12T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-aurora-multimarcas-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Aurora Multimarcas",
+  "imagens": [
+   "midia/mineiros/feed/aurora-multimarcas-mineiros-1.jpg",
+   "midia/mineiros/feed/aurora-multimarcas-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @aurora.multimarcas como Destaque do Ano 2026 em Mineiros-GO, no segmento de Loja de roupas femininas.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "aurora.multimarcas"
+  ],
+  "quando": "2026-11-13T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-dra-danielly-porphirio-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Dra. Danielly Porphirio",
+  "imagens": [
+   "midia/mineiros/feed/dra-danielly-porphirio-mineiros-1.jpg",
+   "midia/mineiros/feed/dra-danielly-porphirio-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @dradaniellyporphirio_ como Destaque do Ano 2026 em Mineiros-GO, no segmento de Dentista.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "dradaniellyporphirio_"
+  ],
+  "quando": "2026-11-13T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-nl-estetica-automotiva-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "NL Estética Automotiva",
+  "imagens": [
+   "midia/mineiros/feed/nl-estetica-automotiva-mineiros-1.jpg",
+   "midia/mineiros/feed/nl-estetica-automotiva-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @nl_estetica.automotiva como Destaque do Ano 2026 em Mineiros-GO, no segmento de Lava-jato.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "nl_estetica.automotiva"
+  ],
+  "quando": "2026-11-13T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-jordanne-silva-advocacia-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Jordanne Silva Advocacia",
+  "imagens": [
+   "midia/mineiros/feed/jordanne-silva-advocacia-mineiros-1.jpg",
+   "midia/mineiros/feed/jordanne-silva-advocacia-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @jordanne.adv como Destaque do Ano 2026 em Mineiros-GO, no segmento de Advogado(a).\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "jordanne.adv"
+  ],
+  "quando": "2026-11-14T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-lr-moda-fitness-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "LR Moda Fitness",
+  "imagens": [
+   "midia/mineiros/feed/lr-moda-fitness-mineiros-1.jpg",
+   "midia/mineiros/feed/lr-moda-fitness-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @lrmoda_fit como Destaque do Ano 2026 em Mineiros-GO, no segmento de Loja de moda fitness.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "lrmoda_fit"
+  ],
+  "quando": "2026-11-14T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-alessandra-f-studio-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Alessandra F Studio",
+  "imagens": [
+   "midia/mineiros/feed/alessandra-f-studio-mineiros-1.jpg",
+   "midia/mineiros/feed/alessandra-f-studio-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @alessandraf_studio como Destaque do Ano 2026 em Mineiros-GO, no segmento de Micropigmentação.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "alessandraf_studio"
+  ],
+  "quando": "2026-11-14T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-boutique-amiga-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Boutique Amiga",
+  "imagens": [
+   "midia/mineiros/feed/boutique-amiga-mineiros-1.jpg",
+   "midia/mineiros/feed/boutique-amiga-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @amigaboutique como Destaque do Ano 2026 em Mineiros-GO, no segmento de Boutique feminina.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "amigaboutique"
+  ],
+  "quando": "2026-11-15T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-thatalu-brecho-boutique-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Thatalú Brechó Boutique",
+  "imagens": [
+   "midia/mineiros/feed/thatalu-brecho-boutique-mineiros-1.jpg",
+   "midia/mineiros/feed/thatalu-brecho-boutique-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @thatalu_brechoboutique como Destaque do Ano 2026 em Mineiros-GO, no segmento de Brechó.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "thatalu_brechoboutique"
+  ],
+  "quando": "2026-11-15T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-dra-leticia-borges-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Dra. Letícia Borges",
+  "imagens": [
+   "midia/mineiros/feed/dra-leticia-borges-mineiros-1.jpg",
+   "midia/mineiros/feed/dra-leticia-borges-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @draleticiacborges como Destaque do Ano 2026 em Mineiros-GO, no segmento de Dentista.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "draleticiacborges"
+  ],
+  "quando": "2026-11-15T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-kathllyn-designer-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Kathllyn Designer",
+  "imagens": [
+   "midia/mineiros/feed/kathllyn-designer-mineiros-1.jpg",
+   "midia/mineiros/feed/kathllyn-designer-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @kathllyn.designer como Destaque do Ano 2026 em Mineiros-GO, no segmento de Designer de sobrancelhas.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "kathllyn.designer"
+  ],
+  "quando": "2026-11-16T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-diego-abilio-eletricista-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Diego Abílio Eletricista",
+  "imagens": [
+   "midia/mineiros/feed/diego-abilio-eletricista-mineiros-1.jpg",
+   "midia/mineiros/feed/diego-abilio-eletricista-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @diegoabilio.eletricista como Destaque do Ano 2026 em Mineiros-GO, no segmento de Eletricista residencial.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "diegoabilio.eletricista"
+  ],
+  "quando": "2026-11-16T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-bella-paper-personalizados-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Bella Paper Personalizados",
+  "imagens": [
+   "midia/mineiros/feed/bella-paper-personalizados-mineiros-1.jpg",
+   "midia/mineiros/feed/bella-paper-personalizados-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @_bellapaper_ como Destaque do Ano 2026 em Mineiros-GO, no segmento de Estamparia personalizada.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "_bellapaper_"
+  ],
+  "quando": "2026-11-16T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-laura-lafite-estetica-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Laura Lafite Estética",
+  "imagens": [
+   "midia/mineiros/feed/laura-lafite-estetica-mineiros-1.jpg",
+   "midia/mineiros/feed/laura-lafite-estetica-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @esteticalauralafite como Destaque do Ano 2026 em Mineiros-GO, no segmento de Esteticista.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "esteticalauralafite"
+  ],
+  "quando": "2026-11-17T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-km-lash-design-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "KM Lash Design",
+  "imagens": [
+   "midia/mineiros/feed/km-lash-design-mineiros-1.jpg",
+   "midia/mineiros/feed/km-lash-design-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @km._lash como Destaque do Ano 2026 em Mineiros-GO, no segmento de Lash designer.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "km._lash"
+  ],
+  "quando": "2026-11-17T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-elaine-acessorios-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Elaine Acessórios",
+  "imagens": [
+   "midia/mineiros/feed/elaine-acessorios-mineiros-1.jpg",
+   "midia/mineiros/feed/elaine-acessorios-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @elainee.acessorios como Destaque do Ano 2026 em Mineiros-GO, no segmento de Loja de acessórios.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "elainee.acessorios"
+  ],
+  "quando": "2026-11-17T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-dk-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "DK Mineiros",
+  "imagens": [
+   "midia/mineiros/feed/dk-mineiros-1.jpg",
+   "midia/mineiros/feed/dk-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @dkmineiros como Destaque do Ano 2026 em Mineiros-GO, no segmento de Loja de roupas masculinas.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "dkmineiros"
+  ],
+  "quando": "2026-11-18T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-marta-semi-joias-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Marta Semi Joias",
+  "imagens": [
+   "midia/mineiros/feed/marta-semi-joias-mineiros-1.jpg",
+   "midia/mineiros/feed/marta-semi-joias-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @martasemijoias como Destaque do Ano 2026 em Mineiros-GO, no segmento de Loja de semijoias.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "martasemijoias"
+  ],
+  "quando": "2026-11-18T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-nosso-cubinho-plus-size-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Nosso Cubinho Plus Size",
+  "imagens": [
+   "midia/mineiros/feed/nosso-cubinho-plus-size-mineiros-1.jpg",
+   "midia/mineiros/feed/nosso-cubinho-plus-size-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @nossocubinho como Destaque do Ano 2026 em Mineiros-GO, no segmento de Loja plus size.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "nossocubinho"
+  ],
+  "quando": "2026-11-18T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-evillyn-make-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Evillyn Make",
+  "imagens": [
+   "midia/mineiros/feed/evillyn-make-mineiros-1.jpg",
+   "midia/mineiros/feed/evillyn-make-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @evillynmake como Destaque do Ano 2026 em Mineiros-GO, no segmento de Maquiadora.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "evillynmake"
+  ],
+  "quando": "2026-11-19T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-railla-maquiadora-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Raílla Maquiadora",
+  "imagens": [
+   "midia/mineiros/feed/railla-maquiadora-mineiros-1.jpg",
+   "midia/mineiros/feed/railla-maquiadora-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @raillamaquiadora como Destaque do Ano 2026 em Mineiros-GO, no segmento de Maquiadora.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "raillamaquiadora"
+  ],
+  "quando": "2026-11-19T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-sarah-makeup-studio-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Sarah Makeup Studio",
+  "imagens": [
+   "midia/mineiros/feed/sarah-makeup-studio-mineiros-1.jpg",
+   "midia/mineiros/feed/sarah-makeup-studio-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @sarah_makeupstudio como Destaque do Ano 2026 em Mineiros-GO, no segmento de Maquiadora.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "sarah_makeupstudio"
+  ],
+  "quando": "2026-11-19T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-inove-ambientes-planejados-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Inove Ambientes Planejados",
+  "imagens": [
+   "midia/mineiros/feed/inove-ambientes-planejados-mineiros-1.jpg",
+   "midia/mineiros/feed/inove-ambientes-planejados-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @inoveplanejados_ como Destaque do Ano 2026 em Mineiros-GO, no segmento de Móveis planejados.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "inoveplanejados_"
+  ],
+  "quando": "2026-11-20T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-jermayne-nails-designer-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Jermayne Nails Designer",
+  "imagens": [
+   "midia/mineiros/feed/jermayne-nails-designer-mineiros-1.jpg",
+   "midia/mineiros/feed/jermayne-nails-designer-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @jermayne_nailsdesigner como Destaque do Ano 2026 em Mineiros-GO, no segmento de Nail designer.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "jermayne_nailsdesigner"
+  ],
+  "quando": "2026-11-20T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-km-nails-designer-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "KM Nails Designer",
+  "imagens": [
+   "midia/mineiros/feed/km-nails-designer-mineiros-1.jpg",
+   "midia/mineiros/feed/km-nails-designer-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @km.nails.designer como Destaque do Ano 2026 em Mineiros-GO, no segmento de Nail designer.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "km.nails.designer"
+  ],
+  "quando": "2026-11-20T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-ca-motos-eletricas-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "CA Motos Elétricas",
+  "imagens": [
+   "midia/mineiros/feed/ca-motos-eletricas-mineiros-1.jpg",
+   "midia/mineiros/feed/ca-motos-eletricas-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @camotoseletricas como Destaque do Ano 2026 em Mineiros-GO, no segmento de Oficina de patinetes elétricos.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "camotoseletricas"
+  ],
+  "quando": "2026-11-21T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-ana-carolina-irineu-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Ana Carolina Irineu",
+  "imagens": [
+   "midia/mineiros/feed/ana-carolina-irineu-mineiros-1.jpg",
+   "midia/mineiros/feed/ana-carolina-irineu-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @ana.carolinairineu como Destaque do Ano 2026 em Mineiros-GO, no segmento de Personal trainer.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "ana.carolinairineu"
+  ],
+  "quando": "2026-11-21T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-studio-jaque-vieira-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Studio Jaque Vieira",
+  "imagens": [
+   "midia/mineiros/feed/studio-jaque-vieira-mineiros-1.jpg",
+   "midia/mineiros/feed/studio-jaque-vieira-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @studio_jaquevieiraunhas como Destaque do Ano 2026 em Mineiros-GO, no segmento de Podologia.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "studio_jaquevieiraunhas"
+  ],
+  "quando": "2026-11-21T19:00:00-03:00",
+  "status": "pendente"
+ }
+]
