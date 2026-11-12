@@ -124,6 +124,10 @@ def main() -> None:
             print(f"  ok {mid}")
             if not dry:
                 item.update(status="publicado", media_id=mid, publicado_em=datetime.now(timezone.utc).isoformat(timespec="seconds"))
+                try:
+                    item["permalink"] = chamar("GET", mid, fields="permalink").get("permalink", "")
+                except ApiErro:
+                    pass
         except (ApiErro, urllib.error.URLError) as e:
             print(f"  ERRO: {e}")
             if not dry:
@@ -133,6 +137,8 @@ def main() -> None:
                     item["status"] = "erro"
     if not dry:
         FILA.write_text(json.dumps(fila, ensure_ascii=False, indent=1), encoding="utf-8")
+        import painel
+        painel.gerar()
     print("cota:", chamar("GET", f"{IG}/content_publishing_limit", fields="quota_usage").get("data"))
 
 

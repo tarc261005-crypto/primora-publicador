@@ -27,10 +27,10 @@ jobs:
         run: python publicar.py
       - name: Salvar status da fila
         run: |
-          if ! git diff --quiet fila.json; then
+          if ! git diff --quiet fila.json FILA.md; then
             git config user.name "primora-bot"
             git config user.email "primora-bot@users.noreply.github.com"
-            git add fila.json
+            git add fila.json FILA.md
             git commit -m "fila: status atualizado"
             git pull --rebase
             git push
