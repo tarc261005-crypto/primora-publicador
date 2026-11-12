@@ -1,8 +1,8 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 11/11/2026 23:39 (horário de Brasília).
+Atualizado em 11/11/2026 23:41 (horário de Brasília).
 
-**42 agendados** · **0 publicados** · **0 com erro** · posts do feed garantidos até **sáb 21/11**
+**45 agendados** · **0 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
@@ -39,3 +39,6 @@ Atualizado em 11/11/2026 23:39 (horário de Brasília).
 | sáb 21/11 09:00 | post (carrossel) | CA Motos Elétricas | Mineiros - GO | ⏳ agendado |
 | sáb 21/11 13:00 | post (carrossel) | Ana Carolina Irineu | Mineiros - GO | ⏳ agendado |
 | sáb 21/11 19:00 | post (carrossel) | Studio Jaque Vieira | Mineiros - GO | ⏳ agendado |
+| dom 22/11 09:00 | post (carrossel) | SG Beauty Salão | Mineiros - GO | ⏳ agendado |
+| dom 22/11 13:00 | post (carrossel) | Lá Violeta Eventos | Mineiros - GO | ⏳ agendado |
+| dom 22/11 19:00 | post (carrossel) | Tati Storymaker | Mineiros - GO | ⏳ agendado |

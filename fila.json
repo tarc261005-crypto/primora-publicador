@@ -598,5 +598,53 @@
   ],
   "quando": "2026-11-21T19:00:00-03:00",
   "status": "pendente"
+ },
+ {
+  "id": "feed-sg-beauty-salao-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "SG Beauty Salão",
+  "imagens": [
+   "midia/mineiros/feed/sg-beauty-salao-mineiros-1.jpg",
+   "midia/mineiros/feed/sg-beauty-salao-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @sgbeauty.salao como Destaque do Ano 2026 em Mineiros-GO, no segmento de Salão de beleza.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "sgbeauty.salao"
+  ],
+  "quando": "2026-11-22T09:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-la-violeta-eventos-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Lá Violeta Eventos",
+  "imagens": [
+   "midia/mineiros/feed/la-violeta-eventos-mineiros-1.jpg",
+   "midia/mineiros/feed/la-violeta-eventos-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @spassuslavioleta como Destaque do Ano 2026 em Mineiros-GO, no segmento de Salão de festas.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "spassuslavioleta"
+  ],
+  "quando": "2026-11-22T13:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "id": "feed-tati-storymaker-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Tati Storymaker",
+  "imagens": [
+   "midia/mineiros/feed/tati-storymaker-mineiros-1.jpg",
+   "midia/mineiros/feed/tati-storymaker-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @tati_storymaker como Destaque do Ano 2026 em Mineiros-GO, no segmento de Videomaker.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "tati_storymaker"
+  ],
+  "quando": "2026-11-22T19:00:00-03:00",
+  "status": "pendente"
  }
 ]
