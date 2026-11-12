@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 11/11/2026 23:49 (horário de Brasília).
+Atualizado em 11/11/2026 23:50 (horário de Brasília).
 
-**44 agendados** · **1 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**43 agendados** · **2 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| qua 11/11 23:49 | post (carrossel) | Lá Violeta Eventos | Mineiros - GO | ⏳ agendado |
 | qui 12/11 08:00 | story | 12 stories da lista de ganhadores | Mineiros - GO | ⏳ agendado |
 | qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ⏳ agendado |
 | qui 12/11 13:00 | post (carrossel) | Pizzaria Donna Maria | Mineiros - GO | ⏳ agendado |
@@ -46,4 +45,5 @@ Atualizado em 11/11/2026 23:49 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| qua 11/11 23:49 | post (carrossel) | Lá Violeta Eventos | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfoBc_uGJT1/) |
 | qua 11/11 23:44 | post (carrossel) | Tati Storymaker | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfoA3owlCQD/) |
