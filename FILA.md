@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 13/11/2026 08:58 (horário de Brasília).
+Atualizado em 13/11/2026 10:11 (horário de Brasília).
 
-**28 agendados** · **17 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**27 agendados** · **18 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| sex 13/11 09:00 | post (carrossel) | Aurora Multimarcas | Mineiros - GO | ⏳ agendado |
 | sex 13/11 13:00 | post (carrossel) | Dra. Danielly Porphirio | Mineiros - GO | ⏳ agendado |
 | sex 13/11 19:00 | post (carrossel) | NL Estética Automotiva | Mineiros - GO | ⏳ agendado |
 | sáb 14/11 09:00 | post (carrossel) | Jordanne Silva Advocacia | Mineiros - GO | ⏳ agendado |
@@ -41,6 +40,7 @@ Atualizado em 13/11/2026 08:58 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| sex 13/11 09:00 | post (carrossel) | Aurora Multimarcas | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfrtSREF79Z/) |
 | qui 12/11 19:00 | post (carrossel) | Casa de Carne Caipira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfqK4_Nl9wh/) |
 | qui 12/11 13:00 | post (carrossel) | Pizzaria Donna Maria | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpcX5YDCzZ/) |
 | qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpAn_-jUjy/) |
