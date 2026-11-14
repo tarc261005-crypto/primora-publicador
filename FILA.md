@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 14/11/2026 18:40 (horário de Brasília).
+Atualizado em 14/11/2026 19:42 (horário de Brasília).
 
-**23 agendados** · **22 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**22 agendados** · **23 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| sáb 14/11 19:00 | post (carrossel) | Alessandra F Studio | Mineiros - GO | ⏳ agendado |
 | dom 15/11 09:00 | post (carrossel) | Boutique Amiga | Mineiros - GO | ⏳ agendado |
 | dom 15/11 13:00 | post (carrossel) | Thatalú Brechó Boutique | Mineiros - GO | ⏳ agendado |
 | dom 15/11 19:00 | post (carrossel) | Dra. Letícia Borges | Mineiros - GO | ⏳ agendado |
@@ -36,6 +35,7 @@ Atualizado em 14/11/2026 18:40 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| sáb 14/11 19:00 | post (carrossel) | Alessandra F Studio | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfvTfTJDMb1/) |
 | sáb 14/11 13:00 | post (carrossel) | LR Moda Fitness | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfuqjVOo_RD/) |
 | sáb 14/11 09:00 | post (carrossel) | Jordanne Silva Advocacia | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfuQJZFF_-0/) |
 | sex 13/11 19:00 | post (carrossel) | NL Estética Automotiva | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfsvSIkl5EB/) |
