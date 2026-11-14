@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 14/11/2026 08:43 (horário de Brasília).
+Atualizado em 14/11/2026 09:54 (horário de Brasília).
 
-**25 agendados** · **20 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**24 agendados** · **21 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| sáb 14/11 09:00 | post (carrossel) | Jordanne Silva Advocacia | Mineiros - GO | ⏳ agendado |
 | sáb 14/11 13:00 | post (carrossel) | LR Moda Fitness | Mineiros - GO | ⏳ agendado |
 | sáb 14/11 19:00 | post (carrossel) | Alessandra F Studio | Mineiros - GO | ⏳ agendado |
 | dom 15/11 09:00 | post (carrossel) | Boutique Amiga | Mineiros - GO | ⏳ agendado |
@@ -38,6 +37,7 @@ Atualizado em 14/11/2026 08:43 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| sáb 14/11 09:00 | post (carrossel) | Jordanne Silva Advocacia | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfuQJZFF_-0/) |
 | sex 13/11 19:00 | post (carrossel) | NL Estética Automotiva | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfsvSIkl5EB/) |
 | sex 13/11 13:00 | post (carrossel) | Dra. Danielly Porphirio | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfsHP1ZDAUs/) |
 | sex 13/11 09:00 | post (carrossel) | Aurora Multimarcas | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfrtSREF79Z/) |
