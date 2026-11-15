@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 15/11/2026 08:44 (horário de Brasília).
+Atualizado em 15/11/2026 09:55 (horário de Brasília).
 
-**22 agendados** · **23 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**21 agendados** · **24 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| dom 15/11 09:00 | post (carrossel) | Boutique Amiga | Mineiros - GO | ⏳ agendado |
 | dom 15/11 13:00 | post (carrossel) | Thatalú Brechó Boutique | Mineiros - GO | ⏳ agendado |
 | dom 15/11 19:00 | post (carrossel) | Dra. Letícia Borges | Mineiros - GO | ⏳ agendado |
 | seg 16/11 09:00 | post (carrossel) | Kathllyn Designer | Mineiros - GO | ⏳ agendado |
@@ -35,6 +34,7 @@ Atualizado em 15/11/2026 08:44 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| dom 15/11 09:00 | post (carrossel) | Boutique Amiga | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Dfw1HVJjelg/) |
 | sáb 14/11 19:00 | post (carrossel) | Alessandra F Studio | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfvTfTJDMb1/) |
 | sáb 14/11 13:00 | post (carrossel) | LR Moda Fitness | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfuqjVOo_RD/) |
 | sáb 14/11 09:00 | post (carrossel) | Jordanne Silva Advocacia | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfuQJZFF_-0/) |
