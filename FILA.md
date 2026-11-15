@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 15/11/2026 12:43 (horário de Brasília).
+Atualizado em 15/11/2026 13:46 (horário de Brasília).
 
-**21 agendados** · **24 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**20 agendados** · **25 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| dom 15/11 13:00 | post (carrossel) | Thatalú Brechó Boutique | Mineiros - GO | ⏳ agendado |
 | dom 15/11 19:00 | post (carrossel) | Dra. Letícia Borges | Mineiros - GO | ⏳ agendado |
 | seg 16/11 09:00 | post (carrossel) | Kathllyn Designer | Mineiros - GO | ⏳ agendado |
 | seg 16/11 13:00 | post (carrossel) | Diego Abílio Eletricista | Mineiros - GO | ⏳ agendado |
@@ -34,6 +33,7 @@ Atualizado em 15/11/2026 12:43 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| dom 15/11 13:00 | post (carrossel) | Thatalú Brechó Boutique | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfxPjMfE4bl/) |
 | dom 15/11 09:00 | post (carrossel) | Boutique Amiga | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Dfw1HVJjelg/) |
 | sáb 14/11 19:00 | post (carrossel) | Alessandra F Studio | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfvTfTJDMb1/) |
 | sáb 14/11 13:00 | post (carrossel) | LR Moda Fitness | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfuqjVOo_RD/) |
