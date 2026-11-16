@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 16/11/2026 12:09 (horário de Brasília).
+Atualizado em 16/11/2026 14:19 (horário de Brasília).
 
-**18 agendados** · **27 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**17 agendados** · **28 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| seg 16/11 13:00 | post (carrossel) | Diego Abílio Eletricista | Mineiros - GO | ⏳ agendado |
 | seg 16/11 19:00 | post (carrossel) | Bella Paper Personalizados | Mineiros - GO | ⏳ agendado |
 | ter 17/11 09:00 | post (carrossel) | Laura Lafite Estética | Mineiros - GO | ⏳ agendado |
 | ter 17/11 13:00 | post (carrossel) | KM Lash Design | Mineiros - GO | ⏳ agendado |
@@ -31,6 +30,7 @@ Atualizado em 16/11/2026 12:09 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| seg 16/11 13:00 | post (carrossel) | Diego Abílio Eletricista | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Dfz4CUWlxlm/) |
 | seg 16/11 09:00 | post (carrossel) | Kathllyn Designer | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfzpN2LEcJH/) |
 | dom 15/11 19:00 | post (carrossel) | Dra. Letícia Borges | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Dfx4a8BGHJO/) |
 | dom 15/11 13:00 | post (carrossel) | Thatalú Brechó Boutique | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfxPjMfE4bl/) |
