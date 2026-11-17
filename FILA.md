@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 17/11/2026 12:59 (horário de Brasília).
+Atualizado em 17/11/2026 14:09 (horário de Brasília).
 
-**15 agendados** · **30 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**14 agendados** · **31 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| ter 17/11 13:00 | post (carrossel) | KM Lash Design | Mineiros - GO | ⏳ agendado |
 | ter 17/11 19:00 | post (carrossel) | Elaine Acessórios | Mineiros - GO | ⏳ agendado |
 | qua 18/11 09:00 | post (carrossel) | DK Mineiros | Mineiros - GO | ⏳ agendado |
 | qua 18/11 13:00 | post (carrossel) | Marta Semi Joias | Mineiros - GO | ⏳ agendado |
@@ -28,6 +27,7 @@ Atualizado em 17/11/2026 12:59 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| ter 17/11 13:00 | post (carrossel) | KM Lash Design | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df2br31IDXr/) |
 | ter 17/11 09:00 | post (carrossel) | Laura Lafite Estética | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df2AdVJl-4m/) |
 | seg 16/11 19:00 | post (carrossel) | Bella Paper Personalizados | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df0eIesiexo/) |
 | seg 16/11 13:00 | post (carrossel) | Diego Abílio Eletricista | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Dfz4CUWlxlm/) |
@@ -46,4 +46,3 @@ Atualizado em 17/11/2026 12:59 (horário de Brasília).
 | qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpAn_-jUjy/) |
 | qui 12/11 08:00 | story | 12 stories da lista de ganhadores | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/stories/primoradestaques/4028753958118173502) |
 | qua 11/11 23:49 | post (carrossel) | Lá Violeta Eventos | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfoBc_uGJT1/) |
-| qua 11/11 23:44 | post (carrossel) | Tati Storymaker | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfoA3owlCQD/) |
