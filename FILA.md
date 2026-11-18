@@ -1,14 +1,13 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 18/11/2026 07:07 (horário de Brasília).
+Atualizado em 18/11/2026 09:02 (horário de Brasília).
 
-**13 agendados** · **32 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**12 agendados** · **33 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| qua 18/11 09:00 | post (carrossel) | DK Mineiros | Mineiros - GO | ⏳ agendado |
 | qua 18/11 13:00 | post (carrossel) | Marta Semi Joias | Mineiros - GO | ⏳ agendado |
 | qua 18/11 19:00 | post (carrossel) | Nosso Cubinho Plus Size | Mineiros - GO | ⏳ agendado |
 | qui 19/11 09:00 | post (carrossel) | Evillyn Make | Mineiros - GO | ⏳ agendado |
@@ -26,6 +25,7 @@ Atualizado em 18/11/2026 07:07 (horário de Brasília).
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| qua 18/11 09:00 | post (carrossel) | DK Mineiros | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df4dcD5kdLW/) |
 | ter 17/11 19:00 | post (carrossel) | Elaine Acessórios | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df3Dq5XF7rO/) |
 | ter 17/11 13:00 | post (carrossel) | KM Lash Design | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df2br31IDXr/) |
 | ter 17/11 09:00 | post (carrossel) | Laura Lafite Estética | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df2AdVJl-4m/) |
@@ -44,4 +44,4 @@ Atualizado em 18/11/2026 07:07 (horário de Brasília).
 | qui 12/11 19:00 | post (carrossel) | Casa de Carne Caipira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfqK4_Nl9wh/) |
 | qui 12/11 13:00 | post (carrossel) | Pizzaria Donna Maria | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpcX5YDCzZ/) |
 | qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpAn_-jUjy/) |
-| qui 12/11 08:00 | story | 12 stories da lista de ganhadores | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/stories/primoradestaques/4028753958118173502) |
+| qui 12/11 08:00 | story | 11 stories da lista de ganhadores | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/stories/primoradestaques/4028753958118173502) |
