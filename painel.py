@@ -32,6 +32,18 @@ def gerar() -> None:
         + (f" · posts do feed garantidos até **{_quando(ultimo_feed)[:9]}**" if ultimo_feed else " · ⚠️ fila do feed vazia"),
         "",
     ]
+    hoje = agora.date()
+    seguir = [i for i in pub if i["tipo"] == "carrossel" and i.get("collabs")
+              and datetime.fromisoformat(i.get("publicado_em") or i["quando"]).astimezone(BRT).date() == hoje]
+    linhas += [f"## 👥 Seguir hoje ({hoje:%d/%m})", ""]
+    if seguir:
+        linhas += ["Toque no @ e siga pela @primoradestaques:", ""]
+        for i in sorted(seguir, key=lambda i: i["quando"]):
+            for h in i["collabs"]:
+                linhas.append(f"- [ ] [@{h}](https://www.instagram.com/{h}/) · {i.get('empresa', '')} · {_quando(i['quando'])[-5:]}")
+    else:
+        linhas.append("Nenhum post publicado hoje ainda.")
+    linhas.append("")
     if err:
         linhas += ["## ❌ Com erro", "", "| Quando | Tipo | O quê | Erro |", "|---|---|---|---|"]
         linhas += [f"| {_quando(i['quando'])} | {i['tipo']} | {i.get('empresa') or i['id']} | {i.get('erro', '')} |" for i in err]

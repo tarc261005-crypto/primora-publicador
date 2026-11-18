@@ -1,8 +1,16 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 18/11/2026 18:56 (horário de Brasília).
+Atualizado em 18/11/2026 19:01 (horário de Brasília).
 
 **11 agendados** · **35 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+
+## 👥 Seguir hoje (18/11)
+
+Toque no @ e siga pela @primoradestaques:
+
+- [ ] [@dkmineiros](https://www.instagram.com/dkmineiros/) · DK Mineiros · 09:00
+- [ ] [@martasemijoias](https://www.instagram.com/martasemijoias/) · Marta Semi Joias · 13:00
+- [ ] [@eosespacodeeventos](https://www.instagram.com/eosespacodeeventos/) · Espaço EOS (CLIENTE PAGO) · 17:30
 
 ## ⏳ Próximas publicações
 
