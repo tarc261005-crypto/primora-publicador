@@ -1,8 +1,8 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 18/11/2026 19:01 (horário de Brasília).
+Atualizado em 18/11/2026 19:56 (horário de Brasília).
 
-**11 agendados** · **35 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**10 agendados** · **36 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## 👥 Seguir hoje (18/11)
 
@@ -11,12 +11,12 @@ Toque no @ e siga pela @primoradestaques:
 - [ ] [@dkmineiros](https://www.instagram.com/dkmineiros/) · DK Mineiros · 09:00
 - [ ] [@martasemijoias](https://www.instagram.com/martasemijoias/) · Marta Semi Joias · 13:00
 - [ ] [@eosespacodeeventos](https://www.instagram.com/eosespacodeeventos/) · Espaço EOS (CLIENTE PAGO) · 17:30
+- [ ] [@nossocubinho](https://www.instagram.com/nossocubinho/) · Nosso Cubinho Plus Size · 19:00
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| qua 18/11 19:00 | post (carrossel) | Nosso Cubinho Plus Size | Mineiros - GO | ⏳ agendado |
 | qui 19/11 09:00 | post (carrossel) | Evillyn Make | Mineiros - GO | ⏳ agendado |
 | qui 19/11 13:00 | post (carrossel) | Raílla Maquiadora | Mineiros - GO | ⏳ agendado |
 | qui 19/11 19:00 | post (carrossel) | Sarah Makeup Studio | Mineiros - GO | ⏳ agendado |
@@ -32,6 +32,7 @@ Toque no @ e siga pela @primoradestaques:
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| qua 18/11 19:00 | post (carrossel) | Nosso Cubinho Plus Size | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df5oR9_Ca8j/) |
 | qua 18/11 17:30 | post (carrossel) | Espaço EOS (CLIENTE PAGO) | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df5XiV_F1BU/) |
 | qua 18/11 13:00 | post (carrossel) | Marta Semi Joias | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df45H47l91h/) |
 | qua 18/11 09:00 | post (carrossel) | DK Mineiros | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df4dcD5kdLW/) |
@@ -53,4 +54,4 @@ Toque no @ e siga pela @primoradestaques:
 | qui 12/11 19:00 | post (carrossel) | Casa de Carne Caipira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfqK4_Nl9wh/) |
 | qui 12/11 13:00 | post (carrossel) | Pizzaria Donna Maria | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpcX5YDCzZ/) |
 | qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpAn_-jUjy/) |
-| qui 12/11 08:00 | story | 9 stories da lista de ganhadores | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/stories/primoradestaques/4028753958118173502) |
+| qui 12/11 08:00 | story | 8 stories da lista de ganhadores | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/stories/primoradestaques/4028753958118173502) |
