@@ -82,13 +82,14 @@ def marcar(item: dict) -> dict:
     return {"user_tags": json.dumps([{"username": h, "x": 0.5, "y": 0.35 + 0.1 * n} for n, h in enumerate(item["collabs"][:3])])}
 
 
-def criar_container(item: dict, com_collab: bool = True) -> str:
+def criar_container(item: dict, com_collab: bool = True, com_local: bool = True) -> str:
     urls = [BASE_URL + urllib.parse.quote(p) for p in item["imagens"]]
+    loc = {"location_id": str(item["local"])} if com_local and item.get("local") else {}
     if item["tipo"] == "story":
         c = chamar("POST", f"{IG}/media", image_url=urls[0], media_type="STORIES")["id"]
     elif len(urls) == 1:
         extra = {"collaborators": json.dumps(item["collabs"][:3]), **marcar(item)} if com_collab and item.get("collabs") else {}
-        c = chamar("POST", f"{IG}/media", image_url=urls[0], caption=item.get("legenda", ""), **extra)["id"]
+        c = chamar("POST", f"{IG}/media", image_url=urls[0], caption=item.get("legenda", ""), **extra, **loc)["id"]
     else:
         tag = marcar(item) if com_collab else {}
         filhos = [chamar("POST", f"{IG}/media", image_url=u, is_carousel_item="true", **(tag if n == 0 else {}))["id"]
@@ -97,19 +98,26 @@ def criar_container(item: dict, com_collab: bool = True) -> str:
             aguardar(f)
         extra = {"collaborators": json.dumps(item["collabs"][:3])} if com_collab and item.get("collabs") else {}
         c = chamar("POST", f"{IG}/media", media_type="CAROUSEL", children=",".join(filhos),
-                   caption=item.get("legenda", ""), **extra)["id"]
+                   caption=item.get("legenda", ""), **extra, **loc)["id"]
     aguardar(c)
     return c
 
 
 def publicar(item: dict, dry: bool) -> str:
     try:
-        c = criar_container(item)
+        try:
+            c = criar_container(item)
+        except ApiErro as e:
+            if not item.get("local"):
+                raise
+            print(f"  localização recusada ({e}); tentando sem ela")
+            item["obs"] = f"sem localização: {e}"
+            c = criar_container(item, com_local=False)
     except ApiErro as e:
         if item.get("collabs"):
             print(f"  collab/marcação recusados ({e}); publicando sem eles")
             item["obs"] = f"sem collab/marcação: {e}"
-            c = criar_container(item, com_collab=False)
+            c = criar_container(item, com_collab=False, com_local=False)
         else:
             raise
     if dry:
