@@ -1,5 +1,43 @@
 [
  {
+  "id": "feed-tati-storymaker-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Tati Storymaker",
+  "imagens": [
+   "midia/mineiros/feed/tati-storymaker-mineiros-1.jpg",
+   "midia/mineiros/feed/tati-storymaker-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @tati_storymaker como Destaque do Ano 2026 em Mineiros-GO, no segmento de Videomaker.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "tati_storymaker"
+  ],
+  "quando": "2026-11-12T02:44:44+00:00",
+  "status": "publicado",
+  "media_id": "18122333497762154",
+  "publicado_em": "2026-11-12T02:45:22+00:00",
+  "permalink": "https://www.instagram.com/p/DfoA3owlCQD/"
+ },
+ {
+  "id": "feed-la-violeta-eventos-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Lá Violeta Eventos",
+  "imagens": [
+   "midia/mineiros/feed/la-violeta-eventos-mineiros-1.jpg",
+   "midia/mineiros/feed/la-violeta-eventos-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @spassuslavioleta como Destaque do Ano 2026 em Mineiros-GO, no segmento de Salão de festas.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "spassuslavioleta"
+  ],
+  "quando": "2026-11-12T02:49:49+00:00",
+  "status": "publicado",
+  "media_id": "18471017443138912",
+  "publicado_em": "2026-11-12T02:50:24+00:00",
+  "permalink": "https://www.instagram.com/p/DfoBc_uGJT1/"
+ },
+ {
   "id": "story-mineiros-story-01",
   "tipo": "story",
   "cidade": "Mineiros - GO",
@@ -537,6 +575,22 @@
   "permalink": "https://www.instagram.com/p/Df45H47l91h/"
  },
  {
+  "id": "feed-espaco-eos-mineiros",
+  "tipo": "carrossel",
+  "cidade": "Mineiros - GO",
+  "empresa": "Espaço EOS (CLIENTE PAGO)",
+  "imagens": [
+   "midia/mineiros/feed/espaco-eos-mineiros-1.jpg",
+   "midia/mineiros/feed/espaco-eos-mineiros-2.jpg"
+  ],
+  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @eosespacodeeventos como Destaque do Ano 2026 em Mineiros-GO, no segmento de Empresa de Eventos.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
+  "collabs": [
+   "eosespacodeeventos"
+  ],
+  "quando": "2026-11-18T17:30:00-03:00",
+  "status": "pendente"
+ },
+ {
   "id": "feed-nosso-cubinho-plus-size-mineiros",
   "tipo": "carrossel",
   "cidade": "Mineiros - GO",
@@ -711,43 +765,5 @@
   ],
   "quando": "2026-11-22T09:00:00-03:00",
   "status": "pendente"
- },
- {
-  "id": "feed-la-violeta-eventos-mineiros",
-  "tipo": "carrossel",
-  "cidade": "Mineiros - GO",
-  "empresa": "Lá Violeta Eventos",
-  "imagens": [
-   "midia/mineiros/feed/la-violeta-eventos-mineiros-1.jpg",
-   "midia/mineiros/feed/la-violeta-eventos-mineiros-2.jpg"
-  ],
-  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @spassuslavioleta como Destaque do Ano 2026 em Mineiros-GO, no segmento de Salão de festas.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
-  "collabs": [
-   "spassuslavioleta"
-  ],
-  "quando": "2026-11-12T02:49:49+00:00",
-  "status": "publicado",
-  "media_id": "18471017443138912",
-  "publicado_em": "2026-11-12T02:50:24+00:00",
-  "permalink": "https://www.instagram.com/p/DfoBc_uGJT1/"
- },
- {
-  "id": "feed-tati-storymaker-mineiros",
-  "tipo": "carrossel",
-  "cidade": "Mineiros - GO",
-  "empresa": "Tati Storymaker",
-  "imagens": [
-   "midia/mineiros/feed/tati-storymaker-mineiros-1.jpg",
-   "midia/mineiros/feed/tati-storymaker-mineiros-2.jpg"
-  ],
-  "legenda": "Parabéns pelo seu destaque! 🏆\n\nÉ com muita alegria que reconhecemos @tati_storymaker como Destaque do Ano 2026 em Mineiros-GO, no segmento de Videomaker.\n\nEsse reconhecimento representa a confiança e o carinho que a comunidade tem pelo seu trabalho. Ser lembrado entre tantas empresas da cidade é resultado de dedicação, compromisso e excelência no atendimento.\n\nQue essa conquista seja motivo de orgulho e incentivo para continuar crescendo e fazendo a diferença em Mineiros.\n\nDestaque do Ano 2026\nRealização: @primoradestaques\n\n#DestaqueDoAno2026 #Mineiros #Primora",
-  "collabs": [
-   "tati_storymaker"
-  ],
-  "quando": "2026-11-12T02:44:44+00:00",
-  "status": "publicado",
-  "media_id": "18122333497762154",
-  "publicado_em": "2026-11-12T02:45:22+00:00",
-  "permalink": "https://www.instagram.com/p/DfoA3owlCQD/"
  }
 ]

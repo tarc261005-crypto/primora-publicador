@@ -1,13 +1,14 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 18/11/2026 17:02 (horário de Brasília).
+Atualizado em 18/11/2026 17:07 (horário de Brasília).
 
-**11 agendados** · **34 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**12 agendados** · **34 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| qua 18/11 17:30 | post (carrossel) | Espaço EOS (CLIENTE PAGO) | Mineiros - GO | ⏳ agendado |
 | qua 18/11 19:00 | post (carrossel) | Nosso Cubinho Plus Size | Mineiros - GO | ⏳ agendado |
 | qui 19/11 09:00 | post (carrossel) | Evillyn Make | Mineiros - GO | ⏳ agendado |
 | qui 19/11 13:00 | post (carrossel) | Raílla Maquiadora | Mineiros - GO | ⏳ agendado |
