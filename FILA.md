@@ -1,6 +1,6 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 19/11/2026 17:08 (horário de Brasília).
+Atualizado em 19/11/2026 18:54 (horário de Brasília).
 
 **8 agendados** · **38 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
