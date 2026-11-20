@@ -1,8 +1,8 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 20/11/2026 18:53 (horário de Brasília).
+Atualizado em 20/11/2026 19:52 (horário de Brasília).
 
-**5 agendados** · **41 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**4 agendados** · **42 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## 👥 Seguir hoje (20/11)
 
@@ -10,12 +10,12 @@ Toque no @ e siga pela @primoradestaques:
 
 - [ ] [@inoveplanejados_](https://www.instagram.com/inoveplanejados_/) · Inove Ambientes Planejados · 09:00
 - [ ] [@jermayne_nailsdesigner](https://www.instagram.com/jermayne_nailsdesigner/) · Jermayne Nails Designer · 13:00
+- [ ] [@km.nails.designer](https://www.instagram.com/km.nails.designer/) · KM Nails Designer · 19:00
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| sex 20/11 19:00 | post (carrossel) | KM Nails Designer | Mineiros - GO | ⏳ agendado |
 | sáb 21/11 09:00 | post (carrossel) | CA Motos Elétricas | Mineiros - GO | ⏳ agendado |
 | sáb 21/11 13:00 | post (carrossel) | Ana Carolina Irineu | Mineiros - GO | ⏳ agendado |
 | sáb 21/11 19:00 | post (carrossel) | Studio Jaque Vieira | Mineiros - GO | ⏳ agendado |
@@ -25,6 +25,7 @@ Toque no @ e siga pela @primoradestaques:
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| sex 20/11 19:00 | post (carrossel) | KM Nails Designer | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df-xW2Al-lL/) |
 | sex 20/11 13:00 | post (carrossel) | Jermayne Nails Designer | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df-JTZIG2ZE/) |
 | sex 20/11 09:00 | post (carrossel) | Inove Ambientes Planejados | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df9mxSLCUMF/) |
 | qui 19/11 19:00 | post (carrossel) | Sarah Makeup Studio | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df8MwZLk0v-/) |
@@ -52,4 +53,4 @@ Toque no @ e siga pela @primoradestaques:
 | qui 12/11 19:00 | post (carrossel) | Casa de Carne Caipira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfqK4_Nl9wh/) |
 | qui 12/11 13:00 | post (carrossel) | Pizzaria Donna Maria | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpcX5YDCzZ/) |
 | qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpAn_-jUjy/) |
-| qui 12/11 08:00 | story | 3 stories da lista de ganhadores | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/stories/primoradestaques/4028753958118173502) |
+| qui 12/11 08:00 | story | 2 stories da lista de ganhadores | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/stories/primoradestaques/4028753958118173502) |
