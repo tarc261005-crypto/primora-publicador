@@ -1,16 +1,12 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 19/11/2026 23:53 (horário de Brasília).
+Atualizado em 20/11/2026 00:57 (horário de Brasília).
 
 **7 agendados** · **39 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
-## 👥 Seguir hoje (19/11)
+## 👥 Seguir hoje (20/11)
 
-Toque no @ e siga pela @primoradestaques:
-
-- [ ] [@evillynmake](https://www.instagram.com/evillynmake/) · Evillyn Make · 09:00
-- [ ] [@raillamaquiadora](https://www.instagram.com/raillamaquiadora/) · Raílla Maquiadora · 13:00
-- [ ] [@sarah_makeupstudio](https://www.instagram.com/sarah_makeupstudio/) · Sarah Makeup Studio · 19:00
+Nenhum post publicado hoje ainda.
 
 ## ⏳ Próximas publicações
 
