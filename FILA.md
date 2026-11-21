@@ -1,16 +1,12 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 20/11/2026 23:52 (horário de Brasília).
+Atualizado em 21/11/2026 00:56 (horário de Brasília).
 
 **4 agendados** · **42 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
-## 👥 Seguir hoje (20/11)
+## 👥 Seguir hoje (21/11)
 
-Toque no @ e siga pela @primoradestaques:
-
-- [ ] [@inoveplanejados_](https://www.instagram.com/inoveplanejados_/) · Inove Ambientes Planejados · 09:00
-- [ ] [@jermayne_nailsdesigner](https://www.instagram.com/jermayne_nailsdesigner/) · Jermayne Nails Designer · 13:00
-- [ ] [@km.nails.designer](https://www.instagram.com/km.nails.designer/) · KM Nails Designer · 19:00
+Nenhum post publicado hoje ainda.
 
 ## ⏳ Próximas publicações
 
