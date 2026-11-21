@@ -1,8 +1,8 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 21/11/2026 13:51 (horário de Brasília).
+Atualizado em 21/11/2026 19:10 (horário de Brasília).
 
-**2 agendados** · **44 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
+**1 agendados** · **45 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
 ## 👥 Seguir hoje (21/11)
 
@@ -10,18 +10,19 @@ Toque no @ e siga pela @primoradestaques:
 
 - [ ] [@camotoseletricas](https://www.instagram.com/camotoseletricas/) · CA Motos Elétricas · 09:00
 - [ ] [@ana.carolinairineu](https://www.instagram.com/ana.carolinairineu/) · Ana Carolina Irineu · 13:00
+- [ ] [@studio_jaquevieiraunhas](https://www.instagram.com/studio_jaquevieiraunhas/) · Studio Jaque Vieira · 19:00
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| sáb 21/11 19:00 | post (carrossel) | Studio Jaque Vieira | Mineiros - GO | ⏳ agendado |
 | dom 22/11 09:00 | post (carrossel) | SG Beauty Salão | Mineiros - GO | ⏳ agendado |
 
 ## ✅ Últimas publicadas
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| sáb 21/11 19:00 | post (carrossel) | Studio Jaque Vieira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DgBRWuTDfyx/) |
 | sáb 21/11 13:00 | post (carrossel) | Ana Carolina Irineu | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DgAs2AiIWg8/) |
 | sáb 21/11 09:00 | post (carrossel) | CA Motos Elétricas | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DgASMmwCeJ2/) |
 | sex 20/11 19:00 | post (carrossel) | KM Nails Designer | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/Df-xW2Al-lL/) |
@@ -51,4 +52,3 @@ Toque no @ e siga pela @primoradestaques:
 | sex 13/11 09:00 | post (carrossel) | Aurora Multimarcas | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfrtSREF79Z/) |
 | qui 12/11 19:00 | post (carrossel) | Casa de Carne Caipira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfqK4_Nl9wh/) |
 | qui 12/11 13:00 | post (carrossel) | Pizzaria Donna Maria | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpcX5YDCzZ/) |
-| qui 12/11 09:00 | post (carrossel) | AFM Funilaria e Pintura | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfpAn_-jUjy/) |
