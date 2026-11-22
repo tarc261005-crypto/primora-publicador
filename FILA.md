@@ -1,16 +1,12 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 21/11/2026 19:10 (horário de Brasília).
+Atualizado em 22/11/2026 00:03 (horário de Brasília).
 
 **1 agendados** · **45 publicados** · **0 com erro** · posts do feed garantidos até **dom 22/11**
 
-## 👥 Seguir hoje (21/11)
+## 👥 Seguir hoje (22/11)
 
-Toque no @ e siga pela @primoradestaques:
-
-- [ ] [@camotoseletricas](https://www.instagram.com/camotoseletricas/) · CA Motos Elétricas · 09:00
-- [ ] [@ana.carolinairineu](https://www.instagram.com/ana.carolinairineu/) · Ana Carolina Irineu · 13:00
-- [ ] [@studio_jaquevieiraunhas](https://www.instagram.com/studio_jaquevieiraunhas/) · Studio Jaque Vieira · 19:00
+Nenhum post publicado hoje ainda.
 
 ## ⏳ Próximas publicações
 
