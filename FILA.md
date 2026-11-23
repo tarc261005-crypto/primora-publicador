@@ -2,22 +2,24 @@
 
 Atualizado em 23/11/2026 15:29 (horário de Brasília).
 
-**1 agendados** · **46 publicados** · **0 com erro** · posts do feed garantidos até **seg 23/11**
+**0 agendados** · **47 publicados** · **0 com erro** · ⚠️ fila do feed vazia
 
 ## 👥 Seguir hoje (23/11)
 
-Nenhum post publicado hoje ainda.
+Toque no @ e siga pela @primoradestaques:
+
+- [ ] [@_encantaredecor](https://www.instagram.com/_encantaredecor/) · Encantare Decor (CLIENTE PAGO) · 15:29
 
 ## ⏳ Próximas publicações
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
-| seg 23/11 15:29 | post (carrossel) | Encantare Decor (CLIENTE PAGO) | Mineiros - GO | ⏳ agendado |
 
 ## ✅ Últimas publicadas
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| seg 23/11 15:29 | post (carrossel) | Encantare Decor (CLIENTE PAGO) | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DgGBrnhidCk/) |
 | dom 22/11 09:00 | post (carrossel) | SG Beauty Salão | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DgDj3R7if4-/) |
 | sáb 21/11 19:00 | post (carrossel) | Studio Jaque Vieira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DgBRWuTDfyx/) |
 | sáb 21/11 13:00 | post (carrossel) | Ana Carolina Irineu | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DgAs2AiIWg8/) |
@@ -47,4 +49,3 @@ Nenhum post publicado hoje ainda.
 | sex 13/11 19:00 | post (carrossel) | NL Estética Automotiva | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfsvSIkl5EB/) |
 | sex 13/11 13:00 | post (carrossel) | Dra. Danielly Porphirio | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfsHP1ZDAUs/) |
 | sex 13/11 09:00 | post (carrossel) | Aurora Multimarcas | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfrtSREF79Z/) |
-| qui 12/11 19:00 | post (carrossel) | Casa de Carne Caipira | Mineiros - GO | ✅ publicado · [ver](https://www.instagram.com/p/DfqK4_Nl9wh/) |
