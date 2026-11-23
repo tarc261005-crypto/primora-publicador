@@ -1,8 +1,8 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 23/11/2026 05:57 (horário de Brasília).
+Atualizado em 23/11/2026 15:29 (horário de Brasília).
 
-**0 agendados** · **46 publicados** · **0 com erro** · ⚠️ fila do feed vazia
+**1 agendados** · **46 publicados** · **0 com erro** · posts do feed garantidos até **seg 23/11**
 
 ## 👥 Seguir hoje (23/11)
 
@@ -12,6 +12,7 @@ Nenhum post publicado hoje ainda.
 
 | Quando | Tipo | O quê | Cidade | Status |
 |---|---|---|---|---|
+| seg 23/11 15:29 | post (carrossel) | Encantare Decor (CLIENTE PAGO) | Mineiros - GO | ⏳ agendado |
 
 ## ✅ Últimas publicadas
 
