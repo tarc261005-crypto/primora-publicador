@@ -1,14 +1,12 @@
 # Fila de publicações · @primoradestaques
 
-Atualizado em 23/11/2026 18:15 (horário de Brasília).
+Atualizado em 24/11/2026 02:58 (horário de Brasília).
 
 **0 agendados** · **47 publicados** · **0 com erro** · ⚠️ fila do feed vazia
 
-## 👥 Seguir hoje (23/11)
+## 👥 Seguir hoje (24/11)
 
-Toque no @ e siga pela @primoradestaques:
-
-- [ ] [@_encantaredecor](https://www.instagram.com/_encantaredecor/) · Encantare Decor (CLIENTE PAGO) · 15:29
+Nenhum post publicado hoje ainda.
 
 ## ⏳ Próximas publicações
 
